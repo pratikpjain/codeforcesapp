@@ -2,6 +2,7 @@
 ### I have created a simple android application named <b>CFProfile</b>.
 ### This app simply takes Codeforces 'Handle' as a input and displays all the profile details with submissions etc.
 ### You can have a quick look over <a href = "#" target = _blank>video</a> to know how it works.
+### You can also refer <a href = "https://docs.google.com/document/d/1J9Y9oUcCp3WzyO1ypYGlFhhHyoWCjFW0-XYPnjTGdgQ/edit?usp=sharing">directions.doc</a> file to know working.
 ### This app can actually help to those who practice cp on codeforces to know statistics of submissions.
 ### To create this app I had used <a href = "https://codeforces.com/apiHelp" target = _blank>codeforces api's</a> to fetch the information of a particular handle.
 ### Tools used to create the app:
